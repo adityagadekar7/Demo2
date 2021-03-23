@@ -12,6 +12,11 @@ namespace Demo1
         {
             Console.WriteLine("Function 1");
         }
+
+        public void function2()
+        {
+            Console.WriteLine("Function 2");
+        }
         static void Main(string[] args)
         {
         }
