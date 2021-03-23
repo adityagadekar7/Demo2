@@ -17,6 +17,11 @@ namespace Demo1
         {
             Console.WriteLine("Function 2");
         }
+
+        public void function3()
+        {
+            Console.WriteLine("Jenkins");
+        }
         static void Main(string[] args)
         {
         }
