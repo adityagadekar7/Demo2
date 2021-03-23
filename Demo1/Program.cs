@@ -22,6 +22,11 @@ namespace Demo1
         {
             Console.WriteLine("Jenkins");
         }
+
+        public void function4()
+        {
+            Console.WriteLine("Jenkins Auto");
+        }
         static void Main(string[] args)
         {
         }
